@@ -1,3 +1,9 @@
+#Aayush's First CS193 Homework
+
+- I like learning about github and learning how to code in CS 193
+- I like the location of the CS 193 class
+- I like the TAs in CS 193
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
